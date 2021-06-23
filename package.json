@@ -1,0 +1,14 @@
+{
+  "name": "PPTycoon",
+  "version": "1.0.0",
+  "description": "Bot de minigames relacionado a comunidade jogos no PowerPoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
