@@ -1,2 +1,3 @@
 # PPTycoon
-Created with CodeSandbox
+
+Código do bot de minigames relacionado a comunidade de jogos no PowerPoint

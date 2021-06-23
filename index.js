@@ -1,1 +1,1 @@
-const app = require("express")();
+const api = require("./api/api.js");
