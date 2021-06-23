@@ -1,6 +1,6 @@
 {
   "name": "PPTycoon",
-  "version": "1.0.0",
+  "version": "0.0.0.3",
   "description": "Bot de minigame relacionado a comunidade jogos no PowerPoint",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "discord.js": "^12.5.3",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uo-wix-data": "^1.0.3"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
