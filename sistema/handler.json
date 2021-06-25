@@ -1,4 +1,7 @@
 {
   "ping": "ping.js",
-  "help": "help.js"
+  "help": "help.js",
+  "ajuda": "help.js",
+  "energia": "collectenergy.js",
+  "e": "collectenergy.js"
 }

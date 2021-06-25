@@ -9,6 +9,7 @@
   "dependencies": {
     "discord.js": "^12.5.3",
     "express": "^4.17.1",
+    "rider-discord-line-reply": "^1.0.2",
     "uo-wix-data": "^1.0.3"
   },
   "devDependencies": {

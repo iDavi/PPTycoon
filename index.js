@@ -13,8 +13,8 @@ client.on("ready", () => {
 });
 
 client.on("message", async (msg) => {
-  console.log(await registro.registrarUsuario(msg));
   if (!msg.content.startsWith("pp")) return;
   if (manuntencao && msg.author.id !== "852693531080261702") return;
   msg.newReply(await handler.mensagem(msg));
+  console.log(await registro.registrarUsuario(msg));
 });
